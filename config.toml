@@ -1,4 +1,4 @@
-baseurl = "https://castaways.github.io/"
+baseurl = "https://www.castaway.gq/"
 languageCode = "en-us"
 title = "MESSAGE FROM A CASTAWAY"
 theme = "hugo-future-imperfect"
