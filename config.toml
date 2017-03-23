@@ -1,11 +1,11 @@
 # hostname (and path) to the root eg. http://spf13.com/
-baseurl = "http://www.example.com"
+baseurl = "https://castaways.github.io"
 
 # Site title
-title = "sitename"
+title = "Message from a Castaway"
 
 # Copyright
-copyright = "(c) 2015 yourname."
+copyright = "(c) 2017 Göran Svensson."
 
 # Language
 languageCode = "en-EN"
