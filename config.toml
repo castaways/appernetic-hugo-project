@@ -43,7 +43,7 @@ googleAnalytics = ""
 [params.intro]
     header    = "MESSAGE FROM A CASTAWAY"
 
-    paragraph = "Another fine responsive site template by <a href=\"http://html5up.net\">HTML5 UP</a>. Ported by Julio Pescador with some extra goodies <i class='fa fa-hand-peace-o'></i>"
+    paragraph = "This is where I share my entrepreneurial journey with all its ups and downs. <i class='fa fa-hand-peace-o'></i>"
 
     about     = "This is where I share my entrepreneurial journey with all its ups and downs."
 
