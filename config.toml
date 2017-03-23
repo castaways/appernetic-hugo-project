@@ -36,16 +36,16 @@ disqusShortname = "your_disqus_shortname"
     topic = "topics"
 
 [author]
-    name = "yourname"
-    email = "yourname@example.com"
+    name = "göran Svensson"
+    email = "castaway@mlonfront.com"
 
 #
 # All parameters below here are optional and can be mixed and matched.
 #
 [params]
     # You can use markdown here.
-    brand = "foobar"
-    topline = "few words about your site"
+    brand = "Message from a Castaway"
+    topline = "This is where I share my entrepreneurial journey with all its ups and downs."
     footline = "code with <i class='fa fa-heart'></i>"
 
     # Text for the top menu link, which goes the root URL for the site.
