@@ -48,3 +48,5 @@ It is a bit imperfect, but as it is open source, it is easy to fix issues. Remem
 When you are ready with your project sync it with GitHub and point your domain to GitHub by creating a CNAME file in the appernetic-hugo-project root folder, then sync a last time and publish the site.
 
 Now all should be setup, and you only have to wait for 24 to 48 hours to have the domain name propagate on the Internet.
+
+{{< youtube y1q4WD4mNKA >}}
